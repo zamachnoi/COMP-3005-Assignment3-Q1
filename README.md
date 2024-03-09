@@ -1,4 +1,4 @@
-# COMP 3005 Assignment 3 - Nickolas Zamachnoi
+# COMP 3005 Assignment 3 Q1 - Nickolas Zamachnoi
 
 ## Pre-requisites
 
