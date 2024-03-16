@@ -1,5 +1,7 @@
 # COMP 3005 Assignment 3 Q1 - Nickolas Zamachnoi
 
+## Video: https://www.youtube.com/watch?v=srKBdyUgzrQ
+
 ## Pre-requisites
 
 ### Postgres Installation:
