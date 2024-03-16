@@ -1,4 +1,4 @@
-# COMP 3005 Assignment 3 - Nickolas Zamachnoi
+# COMP 3005 Assignment 3 Q1 - Nickolas Zamachnoi
 
 ## Pre-requisites
 
@@ -67,9 +67,7 @@ This connects to `localhost` at port `5432` in the `postgres` logical database, 
 
 Here we run the crud.py program that uses psycopg2 to connect to the database and do the CRUD operations specified in the Assignment 3 - Q1 Specification
 
-It will ask you for input to connect to your database, such as the host, port, password, database name, and database password.
-
-Enter that information when prompted.
+Here you will see a menu and select whichever options you like
 
 ```bash
 python crud.py
