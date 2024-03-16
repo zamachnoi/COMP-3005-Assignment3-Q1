@@ -25,6 +25,8 @@ This is our Postgres DB!
 
 Make sure Python version >=3.7 is installed on your device. Check your version by running `python --version` in your terminal.
 
+It can be downloaded from [Python.org](https://www.python.org/downloads/)
+
 ### psycopg2 Installation
 
 This program uses psycopg2 to use SQL in our python program. Install it with:
